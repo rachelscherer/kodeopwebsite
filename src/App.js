@@ -1,6 +1,6 @@
 import React from "react";
 import { Header } from  "./Header"
-import { Container, Row, Col} from "react-bootstrap"
+import { Container, Row, Col, Card} from "react-bootstrap"
 import "./App.css"
 
 function App() {
@@ -20,14 +20,82 @@ function App() {
         </Row>
         <Row className="rowstyle">
           <Col>
-          <h3 className="sectionheader">Our mission</h3>
+          <h3 className="sectionheader">Our Mission</h3>
           <p className="sectiontext">Billions upon billions of brilliant syntheses a still more glorious dawn awaits cosmic ocean network of wormholes citizens of distant epochs. Birth gathered by gravity brain is the seed of intelligence kindling the energy hidden in matter as a patch of light made in the interiors of collapsing stars. Globular star cluster inconspicuous motes of rock and gas invent the universe another world intelligent beings inconspicuous motes of rock and gas and billions upon billions upon billions upon billions upon billions upon billions upon billions.</p>
           </Col>
           <Col>
           </Col>
         </Row>
       </Container>
+
+      <h3 className="sectionheader">Our Staff</h3>
+
+      <div className="staffholder">
+      <Container>
+        <Row>
+          <Col lg={12} xl={4}>
+            <Card className="card" bg="dark" text="white">
+              <Card.Img variant="top" src="" />
+                <Card.Body>
+                  <Card.Title>David Allison</Card.Title>
+                  <Card.Text>
+                    CEO
+                  </Card.Text>
+                </Card.Body>
+              </Card>
+            </Col>
+          <Col lg={12} xl={4}>
+          <Card className="card" bg="dark" text="white">
+            <Card.Img src="" />
+              <Card.Body>
+                <Card.Title>Rachel Scherer</Card.Title>
+                <Card.Text>
+                  Insert role here
+                </Card.Text>
+              </Card.Body>
+            </Card>
+          </Col>
+          <Col lg={12} xl={4}>
+          <Card className="card" bg="dark" text="white">
+              <Card.Img variant="top" src="" />
+              <Card.Body>
+                <Card.Title>Osiris</Card.Title>
+                <Card.Text>
+                  Insert role here
+                </Card.Text>
+              </Card.Body>
+            </Card>
+          </Col>
+        </Row>
+        <Row>
+          <Col lg={12} xl={{span: 4, offset: 2}}>
+            <Card className="card" bg="dark" text="white">
+              <Card.Img variant="top" src="" />
+                <Card.Body>
+                  <Card.Title>Alex</Card.Title>
+                  <Card.Text>
+                    Insert role here
+                  </Card.Text>
+                </Card.Body>
+              </Card>
+            </Col>
+            <Col lg={12} xl={4}>
+            <Card className="card" bg="dark" text="white">
+              <Card.Img variant="top" src="" />
+                <Card.Body>
+                  <Card.Title>June</Card.Title>
+                  <Card.Text>
+                    Insert role here
+                  </Card.Text>
+                </Card.Body>
+              </Card>
+            </Col>
+        </Row>
+      </Container>
     </div>
+  </div>
+
+
   );
 }
 

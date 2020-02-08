@@ -1,6 +1,6 @@
 {
   "homepage": "http://rachelscherer.github.io/kodeop",
-  "name": "kodeopwebsite",
+  "name": "kodeop",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

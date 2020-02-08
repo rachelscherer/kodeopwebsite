@@ -28,3 +28,12 @@
 .rowstyle{
   margin-bottom: 100px;
 }
+
+.staffholder{
+  margin: 0 auto;
+  width: 75%;
+}
+
+.card{
+  margin: 25px 0 25px 0;
+}
