@@ -4,5 +4,27 @@
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+  padding-top: 170px;
+}
+
+.header{
+  font-family: 'Raleway', sans-serif;
+  font-weight: bolder;
+  letter-spacing: -.05rem;
+  color: #ffff00;
+  margin-bottom:100px;
+}
+
+.sectionheader{
   color: white;
+  font-weight: bolder;  
+}
+
+.sectiontext{
+  color:white;
+  text-align: justify;
+}
+
+.rowstyle{
+  margin-bottom: 100px;
 }
