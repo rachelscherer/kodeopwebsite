@@ -11,19 +11,19 @@ function App() {
       
       <Container>
         <Row className="rowstyle">
-          <Col>
+          <Col lg={12} xl={6}>
           </Col>
-          <Col>
+          <Col lg={12} xl={6}>
           <h3 className="sectionheader">About Us</h3>
           <p className="sectiontext">We are a worker co-op based in Pomona, CA. We are talented individual programmers who met each other while they were studying at Cal Poly Pomona. Through the hardship of enduring Rodriguez's class, we developed a strong bond in order to survive. Although the struggle was intense and harsh, our skills as programmers have flourished and is at its peak performance. Coming together as a group of individuals, we plan to use our talents and skills to make a impression on the coding world.</p>
           </Col>
         </Row>
         <Row className="rowstyle">
-          <Col>
+          <Col lg={12} xl={6}>
           <h3 className="sectionheader">Our Mission</h3>
           <p className="sectiontext">Billions upon billions of brilliant syntheses a still more glorious dawn awaits cosmic ocean network of wormholes citizens of distant epochs. Birth gathered by gravity brain is the seed of intelligence kindling the energy hidden in matter as a patch of light made in the interiors of collapsing stars. Globular star cluster inconspicuous motes of rock and gas invent the universe another world intelligent beings inconspicuous motes of rock and gas and billions upon billions upon billions upon billions upon billions upon billions upon billions.</p>
           </Col>
-          <Col>
+          <Col lg={12} xl={6}>
           </Col>
         </Row>
       </Container>
@@ -92,6 +92,8 @@ function App() {
             </Col>
         </Row>
       </Container>
+
+      <h3 className="sectionheader">Deliverables</h3>
     </div>
   </div>
 

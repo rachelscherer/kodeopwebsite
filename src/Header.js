@@ -12,6 +12,6 @@ export const Header = () => (
             <Nav.Link>Our Staff</Nav.Link>
             <Nav.Link>Deliverables</Nav.Link>
         </Nav>
-    </Navbar>
+        </Navbar>
     </div>
 );
