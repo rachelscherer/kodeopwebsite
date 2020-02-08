@@ -14,12 +14,12 @@ How to set up a React environment
 2. Navigate to project directory
 3. Run the following command:
 
-# `npm install -g react create-react-app bootstrap react-bootstrap`
+`npm install -g react create-react-app bootstrap react-bootstrap`
 
 ## Run the virtual web server
 
 * In the command prompt, run the following command:
 
-# `npm run start`
+`npm run start`
 
 *Let me know if something doesn't work or if I forgot something! -RS*
