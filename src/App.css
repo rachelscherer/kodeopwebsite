@@ -20,13 +20,19 @@
   font-weight: bolder;  
 }
 
+.sectionheaderdeliverables{
+  color: white;
+  font-weight: bolder;
+  margin: 70px 0 20px 0;
+}
+
 .sectiontext{
   color:white;
   text-align: justify;
 }
 
 .rowstyle{
-  margin-bottom: 100px;
+  margin-bottom: 80px;
 }
 
 .staffholder{
@@ -36,4 +42,19 @@
 
 .card{
   margin: 25px 0 25px 0;
+}
+
+.spacer{
+  height:170px;
+}
+
+.stockimage{
+  width: 60vw;
+  padding-bottom: 20px;
+}
+
+@media only screen and (min-width: 768px) {
+  .stockimage {
+    width:500px;
+  }
 }

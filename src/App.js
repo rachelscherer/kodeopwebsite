@@ -1,6 +1,8 @@
 import React from "react";
 import { Header } from  "./Header"
 import { Container, Row, Col, Card} from "react-bootstrap"
+import stock_client from "./assets/stockimage_client.jpg"
+import stock_startup from "./assets/stockimage_startup.jpg"
 import "./App.css"
 
 function App() {
@@ -12,6 +14,7 @@ function App() {
       <Container>
         <Row className="rowstyle">
           <Col lg={12} xl={6}>
+            <img src={stock_client} alt="" className="stockimage" />
           </Col>
           <Col lg={12} xl={6}>
           <h3 className="sectionheader">About Us</h3>
@@ -19,11 +22,12 @@ function App() {
           </Col>
         </Row>
         <Row className="rowstyle">
-          <Col lg={12} xl={6}>
+          <Col lg={12} xl={{span: 6, order: 2}}>
+            <img src={stock_startup} alt="" className="stockimage" />
+          </Col>
+          <Col lg={12} xl={{span: 6, order: 1}}>
           <h3 className="sectionheader">Our Mission</h3>
           <p className="sectiontext">Billions upon billions of brilliant syntheses a still more glorious dawn awaits cosmic ocean network of wormholes citizens of distant epochs. Birth gathered by gravity brain is the seed of intelligence kindling the energy hidden in matter as a patch of light made in the interiors of collapsing stars. Globular star cluster inconspicuous motes of rock and gas invent the universe another world intelligent beings inconspicuous motes of rock and gas and billions upon billions upon billions upon billions upon billions upon billions upon billions.</p>
-          </Col>
-          <Col lg={12} xl={6}>
           </Col>
         </Row>
       </Container>
@@ -92,12 +96,11 @@ function App() {
             </Col>
         </Row>
       </Container>
-
-      <h3 className="sectionheader">Deliverables</h3>
-    </div>
+      </div>
+      <h3 className="sectionheaderdeliverables">Deliverables</h3>
+      <a href="https://drive.google.com/drive/folders/1hD_fnwefZ78lVn4yCefQ3Ma5MbtDpZvU" target="_blank">Meeting Minutes</a>
+      <div className="spacer" />
   </div>
-
-
   );
 }
 
