@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/kodeop/static/css/main.ce541cef.chunk.css",
-    "main.js": "/kodeop/static/js/main.543898fc.chunk.js",
-    "main.js.map": "/kodeop/static/js/main.543898fc.chunk.js.map",
+    "main.js": "/kodeop/static/js/main.1b43af40.chunk.js",
+    "main.js.map": "/kodeop/static/js/main.1b43af40.chunk.js.map",
     "runtime-main.js": "/kodeop/static/js/runtime-main.d809ebd0.js",
     "runtime-main.js.map": "/kodeop/static/js/runtime-main.d809ebd0.js.map",
     "static/css/2.47e06e2e.chunk.css": "/kodeop/static/css/2.47e06e2e.chunk.css",
     "static/js/2.379d08ff.chunk.js": "/kodeop/static/js/2.379d08ff.chunk.js",
     "static/js/2.379d08ff.chunk.js.map": "/kodeop/static/js/2.379d08ff.chunk.js.map",
     "index.html": "/kodeop/index.html",
-    "precache-manifest.6d0c6e73d7644ea97aaf9f6a4b04babc.js": "/kodeop/precache-manifest.6d0c6e73d7644ea97aaf9f6a4b04babc.js",
+    "precache-manifest.38150dda9969b2f768e886a855332577.js": "/kodeop/precache-manifest.38150dda9969b2f768e886a855332577.js",
     "service-worker.js": "/kodeop/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/kodeop/static/css/2.47e06e2e.chunk.css.map",
     "static/css/main.ce541cef.chunk.css.map": "/kodeop/static/css/main.ce541cef.chunk.css.map",
     "static/js/2.379d08ff.chunk.js.LICENSE.txt": "/kodeop/static/js/2.379d08ff.chunk.js.LICENSE.txt",
     "static/media/stockimage_client.jpg": "/kodeop/static/media/stockimage_client.8d1711a0.jpg",
-    "static/media/stockimage_startup.jpg": "/kodeop/static/media/stockimage_startup.eb53b926.jpg"
+    "static/media/stockimage_startup.png": "/kodeop/static/media/stockimage_startup.565e1fbb.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d809ebd0.js",
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.379d08ff.chunk.js",
     "static/css/main.ce541cef.chunk.css",
-    "static/js/main.543898fc.chunk.js"
+    "static/js/main.1b43af40.chunk.js"
   ]
 }
