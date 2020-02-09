@@ -2,7 +2,7 @@ import React from "react";
 import { Header } from  "./Header"
 import { Container, Row, Col, Card} from "react-bootstrap"
 import stock_client from "./assets/stockimage_client.jpg"
-import stock_startup from "./assets/stockimage_startup.jpg"
+import stock_startup from "./assets/stockimage_startup.png"
 import "./App.css"
 
 function App() {
@@ -98,7 +98,7 @@ function App() {
       </Container>
       </div>
       <h3 className="sectionheaderdeliverables">Deliverables</h3>
-      <a href="https://drive.google.com/drive/folders/1hD_fnwefZ78lVn4yCefQ3Ma5MbtDpZvU" target="_blank">Meeting Minutes</a>
+      <a href="https://drive.google.com/drive/folders/1hD_fnwefZ78lVn4yCefQ3Ma5MbtDpZvU" target="_blank" rel="noopener noreferrer">Meeting Minutes</a>
       <div className="spacer" />
   </div>
   );
