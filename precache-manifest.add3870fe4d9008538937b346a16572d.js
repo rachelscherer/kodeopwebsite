@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "34001bed7195853eadebfaadc89e4296",
+    "revision": "a32c15737e91bcf6caa192ef94787a0d",
     "url": "/kodeop/index.html"
   },
   {
