@@ -3,6 +3,8 @@ import { Header } from  "./Header"
 import { Container, Row, Col, Card} from "react-bootstrap"
 import stock_client from "./assets/stockimage_client.jpg"
 import stock_startup from "./assets/stockimage_startup.png"
+import rachel from "./assets/rachel.png"
+import defaultpic from "./assets/default.jpg"
 import "./App.css"
 
 function App() {
@@ -43,9 +45,9 @@ function App() {
         <div className="staffholder">
           <Container>
             <Row>
-              <Col lg={12} xl={4}>
+              <Col lg={12} xl={2}>
                 <Card className="card" bg="dark" text="white">
-                  <Card.Img variant="top" src="" />
+                  <Card.Img variant="top" src={defaultpic} />
                     <Card.Body>
                       <Card.Title>David Allison</Card.Title>
                       <Card.Text>
@@ -54,9 +56,9 @@ function App() {
                     </Card.Body>
                   </Card>
                 </Col>
-              <Col lg={12} xl={4}>
+              <Col lg={12} xl={3}>
               <Card className="card" bg="dark" text="white">
-                <Card.Img src="" />
+                <Card.Img src={rachel} />
                   <Card.Body>
                     <Card.Title>Rachel Scherer</Card.Title>
                     <Card.Text>
@@ -65,9 +67,9 @@ function App() {
                   </Card.Body>
                 </Card>
               </Col>
-              <Col lg={12} xl={4}>
+              <Col lg={12} xl={2}>
               <Card className="card" bg="dark" text="white">
-                  <Card.Img variant="top" src="" />
+                  <Card.Img variant="top" src={defaultpic} />
                   <Card.Body>
                     <Card.Title>Osiris</Card.Title>
                     <Card.Text>
@@ -76,11 +78,9 @@ function App() {
                   </Card.Body>
                 </Card>
               </Col>
-            </Row>
-            <Row>
-              <Col lg={12} xl={{span: 4, offset: 2}}>
+              <Col lg={12} xl={3}>
                 <Card className="card" bg="dark" text="white">
-                  <Card.Img variant="top" src="" />
+                  <Card.Img variant="top" src={defaultpic} />
                     <Card.Body>
                       <Card.Title>Alex</Card.Title>
                       <Card.Text>
@@ -89,9 +89,9 @@ function App() {
                     </Card.Body>
                   </Card>
                 </Col>
-                <Col lg={12} xl={4}>
+                <Col lg={12} xl={2}>
                 <Card className="card" bg="dark" text="white">
-                  <Card.Img variant="top" src="" />
+                  <Card.Img variant="top" src={defaultpic} />
                     <Card.Body>
                       <Card.Title>June</Card.Title>
                       <Card.Text>
