@@ -17,8 +17,9 @@ function App() {
               <img src={stock_client} alt="" className="stockimage" />
             </Col>
             <Col lg={12} xl={6}>
+            <br />
             <h3 className="sectionheader">About Us</h3>
-            <p className="sectiontext">We are a worker co-op based in Pomona, CA. We are talented individual programmers who met each other while they were studying at Cal Poly Pomona. Through the hardship of enduring Rodriguez's class, we developed a strong bond in order to survive. Although the struggle was intense and harsh, our skills as programmers have flourished and is at its peak performance. Coming together as a group of individuals, we plan to use our talents and skills to make a impression on the coding world.</p>
+            <p className="sectiontext">We are a worker co-op based in Pomona, CA. We are talented individual programmers who met each other while studying at Cal Poly Pomona. Rodríguez's class was very difficult, so we had to develop a strong bond in order to survive. Although the struggle was intense and harsh, our skills as programmers have flourished and is at its peak performance as a result. We plan to use our talents and skills to make an impression on the coding world.</p>
             </Col>
           </Row>
         </div>
@@ -28,8 +29,9 @@ function App() {
               <img src={stock_startup} alt="" className="stockimage" />
             </Col>
             <Col lg={12} xl={{span: 6, order: 1}}>
+            <br />
             <h3 className="sectionheader">Our Mission</h3>
-            <p className="sectiontext">Billions upon billions of brilliant syntheses a still more glorious dawn awaits cosmic ocean network of wormholes citizens of distant epochs. Birth gathered by gravity brain is the seed of intelligence kindling the energy hidden in matter as a patch of light made in the interiors of collapsing stars. Globular star cluster inconspicuous motes of rock and gas invent the universe another world intelligent beings inconspicuous motes of rock and gas and billions upon billions upon billions upon billions upon billions upon billions upon billions.</p>
+            <p className="sectiontext">Kode-Op is a spirited, imaginative software development company devoted to creating high-quality and well-functioning products envisioned by our clients. Our mission is to help clients create innovative solutions and ideas that fit their needs. We also believe that partnerships with our clients are extremely important and that they should be involved heavily in the software building process. We aim to become a regionally recognized brand, capitalizing on the inventive designs from our clients. Our goal is soaring growth, growing fulfillment, and top-notch professionalism.</p>
             </Col>
           </Row>
         </div>
