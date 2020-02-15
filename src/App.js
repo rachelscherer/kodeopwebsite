@@ -4,7 +4,8 @@ import { Container, Row, Col, Card} from "react-bootstrap"
 import stock_client from "./assets/stockimage_client.jpg"
 import stock_startup from "./assets/stockimage_startup.png"
 import rachel from "./assets/rachel.png"
-import defaultpic from "./assets/default.jpg"
+import david from "./assets/david.png"
+import defaultpic from "./assets/default.png"
 import "./App.css"
 
 function App() {
@@ -47,11 +48,11 @@ function App() {
             <Row>
               <Col lg={12} xl={2}>
                 <Card className="card" bg="dark" text="white">
-                  <Card.Img variant="top" src={defaultpic} />
+                  <Card.Img variant="top" src={david} />
                     <Card.Body>
                       <Card.Title>David Allison</Card.Title>
                       <Card.Text>
-                        CEO
+                        CEO/Backend Dev
                       </Card.Text>
                     </Card.Body>
                   </Card>
@@ -62,7 +63,7 @@ function App() {
                   <Card.Body>
                     <Card.Title>Rachel Scherer</Card.Title>
                     <Card.Text>
-                      Insert role here
+                      Frontend Dev
                     </Card.Text>
                   </Card.Body>
                 </Card>
@@ -73,7 +74,7 @@ function App() {
                   <Card.Body>
                     <Card.Title>Osiris</Card.Title>
                     <Card.Text>
-                      Insert role here
+                      Database Manager
                     </Card.Text>
                   </Card.Body>
                 </Card>
@@ -84,7 +85,7 @@ function App() {
                     <Card.Body>
                       <Card.Title>Alex</Card.Title>
                       <Card.Text>
-                        Insert role here
+                        Backend Dev
                       </Card.Text>
                     </Card.Body>
                   </Card>
@@ -95,7 +96,7 @@ function App() {
                     <Card.Body>
                       <Card.Title>June</Card.Title>
                       <Card.Text>
-                        Insert role here
+                        Frontend Dev
                       </Card.Text>
                     </Card.Body>
                   </Card>
