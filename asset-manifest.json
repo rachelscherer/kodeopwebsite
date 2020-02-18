@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/kodeop/static/css/main.f6441788.chunk.css",
-    "main.js": "/kodeop/static/js/main.3a619cab.chunk.js",
-    "main.js.map": "/kodeop/static/js/main.3a619cab.chunk.js.map",
+    "main.css": "/kodeop/static/css/main.b825e7cf.chunk.css",
+    "main.js": "/kodeop/static/js/main.a9142bf6.chunk.js",
+    "main.js.map": "/kodeop/static/js/main.a9142bf6.chunk.js.map",
     "runtime-main.js": "/kodeop/static/js/runtime-main.d809ebd0.js",
     "runtime-main.js.map": "/kodeop/static/js/runtime-main.d809ebd0.js.map",
     "static/css/2.47e06e2e.chunk.css": "/kodeop/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.ae796256.chunk.js": "/kodeop/static/js/2.ae796256.chunk.js",
-    "static/js/2.ae796256.chunk.js.map": "/kodeop/static/js/2.ae796256.chunk.js.map",
+    "static/js/2.aabe3a8c.chunk.js": "/kodeop/static/js/2.aabe3a8c.chunk.js",
+    "static/js/2.aabe3a8c.chunk.js.map": "/kodeop/static/js/2.aabe3a8c.chunk.js.map",
     "index.html": "/kodeop/index.html",
-    "precache-manifest.c958fa2d0e83616d7c4c47f739a9844c.js": "/kodeop/precache-manifest.c958fa2d0e83616d7c4c47f739a9844c.js",
+    "precache-manifest.dda23ed6ec3d6bcebf24aaaa5e7a7cef.js": "/kodeop/precache-manifest.dda23ed6ec3d6bcebf24aaaa5e7a7cef.js",
     "service-worker.js": "/kodeop/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/kodeop/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.f6441788.chunk.css.map": "/kodeop/static/css/main.f6441788.chunk.css.map",
-    "static/js/2.ae796256.chunk.js.LICENSE.txt": "/kodeop/static/js/2.ae796256.chunk.js.LICENSE.txt",
+    "static/css/main.b825e7cf.chunk.css.map": "/kodeop/static/css/main.b825e7cf.chunk.css.map",
+    "static/js/2.aabe3a8c.chunk.js.LICENSE.txt": "/kodeop/static/js/2.aabe3a8c.chunk.js.LICENSE.txt",
+    "static/media/alex.png": "/kodeop/static/media/alex.2e6b7f7a.png",
     "static/media/david.png": "/kodeop/static/media/david.5d87a554.png",
     "static/media/rachel.png": "/kodeop/static/media/rachel.786f4b2d.png",
     "static/media/stockimage_client.jpg": "/kodeop/static/media/stockimage_client.8d1711a0.jpg",
@@ -22,8 +23,8 @@
   "entrypoints": [
     "static/js/runtime-main.d809ebd0.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.ae796256.chunk.js",
-    "static/css/main.f6441788.chunk.css",
-    "static/js/main.3a619cab.chunk.js"
+    "static/js/2.aabe3a8c.chunk.js",
+    "static/css/main.b825e7cf.chunk.css",
+    "static/js/main.a9142bf6.chunk.js"
   ]
 }
