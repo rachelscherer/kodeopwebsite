@@ -5,6 +5,7 @@ import stock_client from "./assets/stockimage_client.jpg"
 import stock_startup from "./assets/stockimage_startup.png"
 import rachel from "./assets/rachel.png"
 import david from "./assets/david.png"
+import alex from "./assets/alex.png"
 import defaultpic from "./assets/default.png"
 import "./App.css"
 
@@ -44,66 +45,52 @@ function App() {
         <h3 className="sectionheader">Our Staff</h3>
 
         <div className="staffholder">
-          <Container>
-            <Row>
-              <Col lg={12} xl={2}>
-                <Card className="card" bg="dark" text="white">
-                  <Card.Img variant="top" src={david} />
-                    <Card.Body>
-                      <Card.Title>David Allison</Card.Title>
-                      <Card.Text>
-                        CEO/Backend Dev
-                      </Card.Text>
-                    </Card.Body>
-                  </Card>
-                </Col>
-              <Col lg={12} xl={3}>
               <Card className="card" bg="dark" text="white">
-                <Card.Img src={rachel} />
+                <Card.Img variant="top" src={david} />
                   <Card.Body>
-                    <Card.Title>Rachel Scherer</Card.Title>
+                    <Card.Title>David Allison</Card.Title>
+                    <Card.Text>
+                      CEO/Backend Dev
+                    </Card.Text>
+                  </Card.Body>
+                </Card>
+            <Card className="card" bg="dark" text="white">
+              <Card.Img src={rachel} />
+                <Card.Body>
+                  <Card.Title>Rachel Scherer</Card.Title>
+                  <Card.Text>
+                    Frontend Dev
+                  </Card.Text>
+                </Card.Body>
+              </Card>
+            <Card className="card" bg="dark" text="white">
+                <Card.Img variant="top" src={defaultpic} />
+                <Card.Body>
+                  <Card.Title>Osiris</Card.Title>
+                  <Card.Text>
+                    Database Manager
+                  </Card.Text>
+                </Card.Body>
+              </Card>
+              <Card className="card" bg="dark" text="white">
+                <Card.Img variant="top" src={alex} />
+                  <Card.Body>
+                    <Card.Title>Alex</Card.Title>
+                    <Card.Text>
+                      Backend Dev
+                    </Card.Text>
+                  </Card.Body>
+                </Card>
+              <Card className="card" bg="dark" text="white">
+                <Card.Img variant="top" src={defaultpic} />
+                  <Card.Body>
+                    <Card.Title>June</Card.Title>
                     <Card.Text>
                       Frontend Dev
                     </Card.Text>
                   </Card.Body>
                 </Card>
-              </Col>
-              <Col lg={12} xl={2}>
-              <Card className="card" bg="dark" text="white">
-                  <Card.Img variant="top" src={defaultpic} />
-                  <Card.Body>
-                    <Card.Title>Osiris</Card.Title>
-                    <Card.Text>
-                      Database Manager
-                    </Card.Text>
-                  </Card.Body>
-                </Card>
-              </Col>
-              <Col lg={12} xl={3}>
-                <Card className="card" bg="dark" text="white">
-                  <Card.Img variant="top" src={defaultpic} />
-                    <Card.Body>
-                      <Card.Title>Alex</Card.Title>
-                      <Card.Text>
-                        Backend Dev
-                      </Card.Text>
-                    </Card.Body>
-                  </Card>
-                </Col>
-                <Col lg={12} xl={2}>
-                <Card className="card" bg="dark" text="white">
-                  <Card.Img variant="top" src={defaultpic} />
-                    <Card.Body>
-                      <Card.Title>June</Card.Title>
-                      <Card.Text>
-                        Frontend Dev
-                      </Card.Text>
-                    </Card.Body>
-                  </Card>
-                </Col>
-            </Row>
-          </Container>
-        </div>
+              </div>
       </div>
       <div id="deliverables">
         <h3 className="sectionheaderdeliverables">Deliverables</h3>

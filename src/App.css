@@ -38,10 +38,12 @@
 .staffholder{
   margin: 0 auto;
   width: 75%;
+  display: inline-block;
+  justify-content: center;
 }
 
 .card{
-  margin: 25px 0 25px 0;
+  margin: 25px 25px 25px 0;
   width: 180px;
 }
 
@@ -57,5 +59,11 @@
 @media only screen and (min-width: 768px) {
   .stockimage {
     width:500px;
+  }
+}
+
+@media only screen and (min-width: 1105px) {
+  .staffholder{
+    display: flex;
   }
 }
