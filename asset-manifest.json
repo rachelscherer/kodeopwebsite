@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/kodeop/static/css/main.b825e7cf.chunk.css",
-    "main.js": "/kodeop/static/js/main.a9142bf6.chunk.js",
-    "main.js.map": "/kodeop/static/js/main.a9142bf6.chunk.js.map",
+    "main.css": "/kodeop/static/css/main.2bc8cb1f.chunk.css",
+    "main.js": "/kodeop/static/js/main.53af64f7.chunk.js",
+    "main.js.map": "/kodeop/static/js/main.53af64f7.chunk.js.map",
     "runtime-main.js": "/kodeop/static/js/runtime-main.d809ebd0.js",
     "runtime-main.js.map": "/kodeop/static/js/runtime-main.d809ebd0.js.map",
     "static/css/2.47e06e2e.chunk.css": "/kodeop/static/css/2.47e06e2e.chunk.css",
     "static/js/2.aabe3a8c.chunk.js": "/kodeop/static/js/2.aabe3a8c.chunk.js",
     "static/js/2.aabe3a8c.chunk.js.map": "/kodeop/static/js/2.aabe3a8c.chunk.js.map",
     "index.html": "/kodeop/index.html",
-    "precache-manifest.dda23ed6ec3d6bcebf24aaaa5e7a7cef.js": "/kodeop/precache-manifest.dda23ed6ec3d6bcebf24aaaa5e7a7cef.js",
+    "precache-manifest.15964143f7bfbe6fbc66252f37590a37.js": "/kodeop/precache-manifest.15964143f7bfbe6fbc66252f37590a37.js",
     "service-worker.js": "/kodeop/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/kodeop/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.b825e7cf.chunk.css.map": "/kodeop/static/css/main.b825e7cf.chunk.css.map",
+    "static/css/main.2bc8cb1f.chunk.css.map": "/kodeop/static/css/main.2bc8cb1f.chunk.css.map",
     "static/js/2.aabe3a8c.chunk.js.LICENSE.txt": "/kodeop/static/js/2.aabe3a8c.chunk.js.LICENSE.txt",
     "static/media/alex.png": "/kodeop/static/media/alex.2e6b7f7a.png",
     "static/media/david.png": "/kodeop/static/media/david.5d87a554.png",
@@ -24,7 +24,7 @@
     "static/js/runtime-main.d809ebd0.js",
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.aabe3a8c.chunk.js",
-    "static/css/main.b825e7cf.chunk.css",
-    "static/js/main.a9142bf6.chunk.js"
+    "static/css/main.2bc8cb1f.chunk.css",
+    "static/js/main.53af64f7.chunk.js"
   ]
 }

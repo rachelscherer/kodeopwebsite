@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0c831fec23179502c14e77c6f0904d0b",
+    "revision": "eeef60e942af5b61e9f16690c2cf8e2e",
     "url": "/kodeop/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kodeop/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "6c9c83924215217bc3ca",
-    "url": "/kodeop/static/css/main.b825e7cf.chunk.css"
+    "revision": "0687cd74dce387ba0274",
+    "url": "/kodeop/static/css/main.2bc8cb1f.chunk.css"
   },
   {
     "revision": "903a0435ca3a8be869c6",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kodeop/static/js/2.aabe3a8c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6c9c83924215217bc3ca",
-    "url": "/kodeop/static/js/main.a9142bf6.chunk.js"
+    "revision": "0687cd74dce387ba0274",
+    "url": "/kodeop/static/js/main.53af64f7.chunk.js"
   },
   {
     "revision": "0dca64c39332c53d6109",
