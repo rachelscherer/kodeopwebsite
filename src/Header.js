@@ -16,6 +16,7 @@ export const Header = () => (
                 smooth={true}
                 offset={-100}
                 duration={500}
+                className = "linkcontainer"
                 >
                     About Us
                 </Link>
@@ -28,6 +29,7 @@ export const Header = () => (
                 smooth={true}
                 offset={-100}
                 duration={500}
+                className = "linkcontainer"
                 >
                     Our Mission
                 </Link>
@@ -40,6 +42,7 @@ export const Header = () => (
                 smooth={true}
                 offset={-55}
                 duration={500}
+                className = "linkcontainer"
                 >
                     Our Staff
                 </Link>
@@ -52,6 +55,7 @@ export const Header = () => (
                 smooth={true}
                 offset={-55}
                 duration={500}
+                className = "linkcontainer"
                 >
                     Deliverables
                 </Link>
