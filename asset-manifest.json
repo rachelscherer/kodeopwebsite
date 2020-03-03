@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/kodeop/static/css/main.2bc8cb1f.chunk.css",
-    "main.js": "/kodeop/static/js/main.53af64f7.chunk.js",
-    "main.js.map": "/kodeop/static/js/main.53af64f7.chunk.js.map",
+    "main.css": "/kodeop/static/css/main.7ddca0ec.chunk.css",
+    "main.js": "/kodeop/static/js/main.a23d8845.chunk.js",
+    "main.js.map": "/kodeop/static/js/main.a23d8845.chunk.js.map",
     "runtime-main.js": "/kodeop/static/js/runtime-main.d809ebd0.js",
     "runtime-main.js.map": "/kodeop/static/js/runtime-main.d809ebd0.js.map",
     "static/css/2.47e06e2e.chunk.css": "/kodeop/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.aabe3a8c.chunk.js": "/kodeop/static/js/2.aabe3a8c.chunk.js",
-    "static/js/2.aabe3a8c.chunk.js.map": "/kodeop/static/js/2.aabe3a8c.chunk.js.map",
+    "static/js/2.b6ad8683.chunk.js": "/kodeop/static/js/2.b6ad8683.chunk.js",
+    "static/js/2.b6ad8683.chunk.js.map": "/kodeop/static/js/2.b6ad8683.chunk.js.map",
     "index.html": "/kodeop/index.html",
-    "precache-manifest.15964143f7bfbe6fbc66252f37590a37.js": "/kodeop/precache-manifest.15964143f7bfbe6fbc66252f37590a37.js",
+    "precache-manifest.4712b613c9392d694d03f7fea18b3045.js": "/kodeop/precache-manifest.4712b613c9392d694d03f7fea18b3045.js",
     "service-worker.js": "/kodeop/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/kodeop/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.2bc8cb1f.chunk.css.map": "/kodeop/static/css/main.2bc8cb1f.chunk.css.map",
-    "static/js/2.aabe3a8c.chunk.js.LICENSE.txt": "/kodeop/static/js/2.aabe3a8c.chunk.js.LICENSE.txt",
+    "static/css/main.7ddca0ec.chunk.css.map": "/kodeop/static/css/main.7ddca0ec.chunk.css.map",
+    "static/js/2.b6ad8683.chunk.js.LICENSE.txt": "/kodeop/static/js/2.b6ad8683.chunk.js.LICENSE.txt",
     "static/media/alex.png": "/kodeop/static/media/alex.2e6b7f7a.png",
     "static/media/david.png": "/kodeop/static/media/david.5d87a554.png",
+    "static/media/osiris.png": "/kodeop/static/media/osiris.c11dc566.png",
     "static/media/rachel.png": "/kodeop/static/media/rachel.786f4b2d.png",
     "static/media/stockimage_client.jpg": "/kodeop/static/media/stockimage_client.8d1711a0.jpg",
     "static/media/stockimage_startup.png": "/kodeop/static/media/stockimage_startup.565e1fbb.png"
@@ -23,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.d809ebd0.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.aabe3a8c.chunk.js",
-    "static/css/main.2bc8cb1f.chunk.css",
-    "static/js/main.53af64f7.chunk.js"
+    "static/js/2.b6ad8683.chunk.js",
+    "static/css/main.7ddca0ec.chunk.css",
+    "static/js/main.a23d8845.chunk.js"
   ]
 }
