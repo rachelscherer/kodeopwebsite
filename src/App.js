@@ -6,6 +6,7 @@ import stock_startup from "./assets/stockimage_startup.png";
 import rachel from "./assets/rachel.png";
 import david from "./assets/david.png";
 import alex from "./assets/alex.png";
+import osiris from "./assets/osiris.png"
 import defaultpic from "./assets/default.png";
 import "./App.css";
 
@@ -81,7 +82,7 @@ function App() {
             </Card.Body>
           </Card>
           <Card className="card" bg="dark" text="white">
-            <Card.Img variant="top" src={defaultpic} />
+            <Card.Img variant="top" src={osiris} />
             <Card.Body>
               <Card.Title>Osiris</Card.Title>
               <Card.Text>Database Manager</Card.Text>

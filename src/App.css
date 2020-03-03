@@ -43,7 +43,7 @@
 }
 
 .card{
-  margin: 25px 25px 25px 0;
+  margin: 30px auto;
   width: 180px;
 }
 
@@ -65,5 +65,10 @@
 @media only screen and (min-width: 1105px) {
   .staffholder{
     display: flex;
+  }
+
+  .card{
+    margin: 25px 25px 25px 0;
+    width: 180px;
   }
 }
