@@ -6,8 +6,8 @@ import stock_startup from "./assets/stockimage_startup.png";
 import rachel from "./assets/rachel.png";
 import david from "./assets/david.png";
 import alex from "./assets/alex.png";
-import osiris from "./assets/osiris.png"
-import defaultpic from "./assets/default.png";
+import osiris from "./assets/osiris.png";
+import june from "./assets/june.png";
 import "./App.css";
 
 function App() {
@@ -85,7 +85,7 @@ function App() {
             <Card.Img variant="top" src={osiris} />
             <Card.Body>
               <Card.Title>Osiris</Card.Title>
-              <Card.Text>Database Manager</Card.Text>
+              <Card.Text>Database/PWA Dev</Card.Text>
             </Card.Body>
           </Card>
           <Card className="card" bg="dark" text="white">
@@ -96,10 +96,10 @@ function App() {
             </Card.Body>
           </Card>
           <Card className="card" bg="dark" text="white">
-            <Card.Img variant="top" src={defaultpic} />
+            <Card.Img variant="top" src={june} />
             <Card.Body>
               <Card.Title>June</Card.Title>
-              <Card.Text>Frontend Dev</Card.Text>
+              <Card.Text>PWA Frontend Dev</Card.Text>
             </Card.Body>
           </Card>
         </div>
